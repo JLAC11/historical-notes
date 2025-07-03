@@ -259,7 +259,7 @@ $$\omega_\theta = \theta + a$$
 Y con esto se calcula el valor esperado. Se toma para el algoritmo EM la estimación con el último valor de $\theta$ Haciendo esta consideración, entonces, calculando la derivada, y evaluando en el siguiente punto ($\theta^{(1)}$):  
 $$ \begin{align*} \frac{d} {d\theta}&Q(\theta|\theta^{(0)}) \\
 &= \frac{d}{d\theta}\left(-n\log{\theta} - \frac{1}{\theta}\sum_{i=1}^m x_i-\frac{1}{\theta}\mathbb{E}_{X\sim\text{Exp}(\theta^{(0)})}\left(\sum_{i=m+1}^n x_i\right)\right) \\
-0 &= -\frac{n}{\theta^{(1)}} + \frac{1}{{\theta^{(1)}}^2}\sum_{i=1}^m x_i+\frac{1}{{\theta^{(1)}}^2}\mathbb{E}_{X\sim\text{Exp}(\theta^{(0)})}\left(\sum_{i=m+1}^n x_i\right) \\
+0 &= -\frac{n}{\theta^{(1)}} + \frac{1}{\theta^{(1)}^2}\sum_{i=1}^m x_i+\frac{1}{\theta^{(1)}^2}\mathbb{E}_{X\sim\text{Exp}(\theta^{(0)})}\left(\sum_{i=m+1}^n x_i\right) \\
 n\theta^{(1)} &= \sum_{i=1}^m x_i+ \mathbb{E}_{X\sim\text{Exp}(\theta^{(0)})}\left(\sum_{i=m+1}^n x_i\right)  \\
 n\theta^{(1)}  &= \sum_{i=1}^m x_i+ (n-m)\omega_{\theta^{(0)}} \\
 \theta^{(1)}  &= \frac{1}{n}\sum_{i=1}^m x_i+ \frac{n-m}{n}\omega_{\theta^{(0)}} \\

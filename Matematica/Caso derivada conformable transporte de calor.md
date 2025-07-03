@@ -30,7 +30,7 @@ Integrando esta ecuación
 $$\begin{align}
 \int_{\xi_0}^\xi\frac{\theta'(z)}{\theta(z)}dz & = -\int_{\xi_0}^\xi\frac{1}{\kappa_0(z;\alpha)}dz \\
 
-\ln{\frac{\theta(\xi)}{\theta(\xi_0)}} &=  -\int_{\xi_0}^\xi\frac{{LC\text{Re}(z)^\alpha}}{k}dz \\
+\ln{\frac{\theta(\xi)}{\theta(\xi_0)}} &=  -\int_{\xi_0}^\xi\frac{LC\text{Re}(z)^\alpha}{k}dz \\
 
 \ln{\frac{\theta(\xi)}{\theta(\xi_0)}} &=  -\frac{LC}{k}\int_{\xi_0}^\xi\text{Re}(z)^\alpha dz 
 \end{align}$$
