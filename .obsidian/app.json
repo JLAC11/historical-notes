@@ -1,0 +1,17 @@
+{
+  "attachmentFolderPath": "DinamicaControl",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "legacyEditor": false,
+  "livePreview": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 84
+  },
+  "strictLineBreaks": false
+}

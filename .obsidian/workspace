@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "0133701c5d47a91b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0bb758cac20f09e",
+        "type": "leaf",
+        "state": {
+          "type": "excalidraw",
+          "state": {
+            "file": "Excalidraw/Solucion IPS.excalidraw.md"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "27e3cb5a2f310a4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe2f4a2005c9f614",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e5b9642d615e780",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2022-09-18 20.34.45.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "041cceaf85892f43",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "solucion ips",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d8d3e4836902844a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 329.5
+  },
+  "right": {
+    "id": "fd80d1c7ec390635",
+    "type": "split",
+    "children": [
+      {
+        "id": "017fe47d92a2bfee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72b0d7af98400ee7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/Solucion IPS.excalidraw.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "87f9f13d2c61ecd8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/Solucion IPS.excalidraw.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ced21c3895683376",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e8950f06df2e33bf",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "0afa650a636e997f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d0bb758cac20f09e",
+  "lastOpenFiles": [
+    "Excalidraw/Solucion IPS.excalidraw.png",
+    "Excalidraw/Solucion IPS.excalidraw 1.png",
+    "Excalidraw/Drawing 2022-09-18 20.34.45.excalidraw.md",
+    "Excalidraw/Solucion IPS.excalidraw.md",
+    "Examen IPS.md",
+    "Excalidraw/Drawing 2022-09-18 20.35.21.excalidraw.md",
+    "Excalidraw/Drawing 2022-09-18 20.34.27.excalidraw.md",
+    "Proyecto LR_PS.md",
+    "Tarea Jorge.md",
+    "Gantt ejercicio.md"
+  ]
+}
